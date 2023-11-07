@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning new stuff!
 - 💞️ I’m looking to collaborate on everything :)
-- 📫 How to reach me, you can't
+- 📫 How to reach me? Email me through edwardphan04@gmail.com!!
+- Thanks!!!!!
 
 <!---
 treeyoung24/treeyoung24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
