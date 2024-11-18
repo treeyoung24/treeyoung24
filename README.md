@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning new stuff!
 - 💞️ I’m looking to collaborate on everything :)
 - 📫 How to reach me? Email me through edwardphan04@gmail.com!!
-- 1 Hackathon 
-- Thanks!!!!!
+
 
 <!---
 treeyoung24/treeyoung24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
